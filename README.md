@@ -10,15 +10,12 @@
 
 Hello, my name is Brooklyn McKee. I am curently studying business analytics at the University of Iowa, with a minor in American Sign Langugae
 
-I like to fill my life with lots of outdoor activites and learning various new skills. An ideal day for me would start with enjoying a warm cup of coffee, while watching the sunrise and listening to a podcast. When I have free time, you can find me exploring and running through new trails, researching and attending events around the community, or completing home improvement projects.
+Here I have displayed the experiences I have had thus far in my career. As I continously aim to improve my craft I will update this site to reflect my newfound knowledge.
 
-This site displays the projects and experiences I am most fond of. As I continously aim to improve my craft I will update this site to reflect my newfound knowledge.
+If you know me, you know I like to fill my life with lots of outdoor adventures; plus, learning various new skills. An ideal morning for me would start with enjoying a warm cup of coffee, while watching the sunrise and listening to a podcast. When I have free time, you can find me exploring and running through new trails, researching and attending events around the community, or completing home improvement projects.
 
 Now that you know a little about me, please explore! Feel free to reach out on any linked media below
 [https://www.linkedin.com/in/brooklyn-mckee-b05b7a221/]
-
-
-Thank you for visiting!
 
 
 ### Education
@@ -60,6 +57,15 @@ stuff | more stuff
         $ mv *.sh ~/tmp
 
     List item continued with a third paragraph.
+
+
+
+
+I hope you had a wonderful experience getting to know a little bit more about me. I would like to add, thank you for visiting and I am looking forward to making future connections!
+
+Happy coding,
+Brooklyn
+
 
 
 
