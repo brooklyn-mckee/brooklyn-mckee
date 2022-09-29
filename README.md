@@ -1,3 +1,11 @@
+## Table of Contents
+- [ABOUT BROOKLYN MCKEE](#About-Brooklyn-McKee)
+- [EDUCATION](#Education)
+- [INTERNSHIPS](#Internships)
+- [PROJECTS](#Projects)
+- [ADDITONAL DOCUMENTATION](#Additional-Informations)
+
+
 ## About Brooklyn McKee
 
 Hello, my name is Brooklyn McKee. I am curently studying business analytics at the University of Iowa, with a minor in American Sign Langugae
@@ -22,13 +30,16 @@ I am currently enrolled in several courses to further advance my knowledge in co
   - Data Wrangling (upcoming)
   - 
 
-### Projects
-In my free time I have began to work on coursera educational courses to further my knowledge.
-
 
 ### Internships
 The previous summer (2022) I had the privledge to work with the Data Analyst Team at Zirous Inc. Through this opportunity I researched a Microsoft's newest data governance portal called Microsoft Purview. **Microsoft Purview** is used to provide a unified data governance sollution to help enterprises manage and monitor their on-prem servers, multicloud, and SaaS data. The tool is easy to use creating a holistic, automatically updating map of the users data landscape through discovery, sensitive data classification, and lineage tracking. 
 
+
+### Projects
+In my free time I have began to work on coursera educational courses to further my knowledge.
+
+
+## Additional Information
 I also began research toward the field of a UI/UX designer
 
 
