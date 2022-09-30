@@ -29,7 +29,7 @@ Educational Courses | Location | Status
 Information Systems | U. of Iowa | Completed
 Computational Thinking | U. of Iowa | In-Progress
 Database Management | U. of Iowa | In-Progress
-GitHub for Data Sceintists | LinkedIn Learning | Completed
+GitHub for Data Scientists | LinkedIn Learning | Completed
 Programming for Everyone | Coursera | In-Progress
 SQL for Data Science | Coursera | In-Progress
 Data Mining | U. of Iowa | Future
