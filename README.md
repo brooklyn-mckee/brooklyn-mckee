@@ -1,4 +1,5 @@
 ## Table of Contents
+
 - [ABOUT BROOKLYN MCKEE](#About-Brooklyn-McKee)
 - [EDUCATION](#Education)
 - [INTERNSHIPS](#Internships)
@@ -18,6 +19,7 @@ Now that you know a little about me, please explore! Feel free to reach out on a
 [https://www.linkedin.com/in/brooklyn-mckee-b05b7a221/]
 
 
+
 ### Education
 
 I am currently enrolled in several courses to further advance my knowledge in computer programming
@@ -25,40 +27,59 @@ I am currently enrolled in several courses to further advance my knowledge in co
   - Database Management
   - Information Systems
   - Data Wrangling (upcoming)
-  - 
+
+Educational Courses | Location | Status
+-------------|-------------|------
+Information Systems | U. of Iowa | Completed
+Computational Thinking | U. of Iowa | In-Progress
+Database Management | U. of Iowa | In-Progress
+GitHub for Data Sceintists | LinkedIn Learning | Completed
+Programming for Everyone | Coursera | In-Progress
+SQL for Data Science | Coursera | In-Progress
+Data Mining | U. of Iowa | Future
+Data Wrangling | U. of Iowa | Future
 
 
 ### Internships
+
 The previous summer (2022) I had the privledge to work with the Data Analyst Team at Zirous Inc. Through this opportunity I researched a Microsoft's newest data governance portal called Microsoft Purview. **Microsoft Purview** is used to provide a unified data governance sollution to help enterprises manage and monitor their on-prem servers, multicloud, and SaaS data. The tool is easy to use creating a holistic, automatically updating map of the users data landscape through discovery, sensitive data classification, and lineage tracking. 
 
 
+
+
 ### Projects
-In my free time I have began to work on coursera educational courses to further my knowledge.
+In my free time I have began to work on coursera educational courses to further my knowledge. I have also earned certificates from online LinkedIn Learning courses. 
+
+One class I am currently coding in is Computational Thinking. This course utilizes Python script to communicate with the computer.
+
+1.  Task: Roll a Dice
+
+    In this project I am tasked to create a simulation in which the user can gamble on the number 
+    rolled on the dice with an opportunity to earn a reward or lose it all. 
+
+        # place the script here
+        # will use a randit() function
+       
+
+    The project begins next week, so I will be providing updates post completion. 
+
 
 
 ## Additional Information
-I also began research toward the field of a UI/UX designer
+
+Recently I have began research toward the field of a UI/UX designer
 
 
-First Header | Second Header
--------------|-------------
-content | more content
-stuff | more stuff
-
-
-
-
-1.  List item one.
-
-    List item one continued with a second paragraph followed by an
-    Indented block.
-
-        $ ls *.sh
-        $ mv *.sh ~/tmp
-
-    List item continued with a third paragraph.
-
-
+Educational Courses | Location | Status
+-------------|-------------|------
+Information Systems | U. of Iowa | Completed
+Computational Thinking | U. of Iowa | In-Progress
+Database Management | U. of Iowa | In-Progress
+GitHub for Data Sceintists | LinkedIn Learning | Completed
+Programming for Everyone | Coursera | In-Progress
+SQL for Data Science | Coursera | In-Progress
+Data Mining | U. of Iowa | Future
+Data Wrangling | U. of Iowa | Future
 
 
 I hope you had a wonderful experience getting to know a little bit more about me. I would like to add, thank you for visiting and I am looking forward to making future connections!
